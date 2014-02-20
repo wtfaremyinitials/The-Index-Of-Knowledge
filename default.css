@@ -23,6 +23,10 @@
 		color: #2B3F48;
 	}
 	
+	h1
+	{
+		margin-top: 11px;
+	}
 	p, ol, ul
 	{
 		margin-top: 0;
@@ -578,7 +582,7 @@
 		text-align: center;
 		color: #5c5c5c;
 		text-transform: none;
-		text-decoration: underline;
+		text-decoration: under;
 	}
 
 
