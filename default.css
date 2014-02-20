@@ -290,17 +290,20 @@
 	.tbox1,
 	.tbox2
 	{
-		width: 575px;
+		width: 275px;
+		height: 200px;
 	}
 	
 	.tbox1
 	{
 		float: left;
+		margin-left: 20%;
 	}
 
 	.tbox2
 	{
 		float: right;
+		margin-right: 20%;
 	}
 	
 	#wrapper
