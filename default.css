@@ -471,7 +471,7 @@
 	#copyright
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 5px 0px 0px 0px;
 		border-top: 1px solid rgba(255,255,255,0.08);
 	}
 	
@@ -576,9 +576,9 @@
 		display: block;
 		float: center;
 		text-align: center;
-		color: #2b2b2b;
+		color: #5c5c5c;
 		text-transform: none;
-		text-decoration: none;
+		text-decoration: underline;
 	}
 
 
