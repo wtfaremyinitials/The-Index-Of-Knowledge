@@ -1,0 +1,3 @@
+[submodule "instantclick"]
+	path = instantclick
+	url = https://github.com/dieulot/instantclick.git
